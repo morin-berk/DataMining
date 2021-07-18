@@ -59,14 +59,3 @@ for url in contents:  # Parse through each url in the list.
 
 with open('soft-sci-fi.json', 'w', encoding='utf-8') as f:
     json.dump(books, f)
-
-#def save_content(content):
- #   with open("antiutopia_1.csv", 'w', newline='', encoding="utf-16") as file:
-  #      writer = csv.writer(file, delimiter=';')
-   #     writer.writerow(['author', 'title_ru', 'title_en', 'annotation', 'comments'])
-    #    for item in items:
-     #       writer.writerow([item['author'], item['title_ru'], item['title_en'], item['annotation'],
-      #                       item['comments']])
-
-
-#save_content(books)
