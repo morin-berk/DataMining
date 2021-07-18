@@ -11,7 +11,6 @@ with open('books.csv', encoding='utf-8', newline='') as csvf:  # Open file in re
     for url in urls:
         contents.append(url)  # Add each url to list contents
 
-#print(contents)
 
 
 books = []
@@ -65,7 +64,6 @@ for url in contents:  # Parse through each url in the list.
             AttributeError
 
 
-#print(books)
 
 def save_content(items, path):
     with open(path, 'w', newline='', encoding="utf-16") as file:
