@@ -6,4 +6,4 @@ The research is based on [Fantlab](https://fantlab.ru) data. The website has an 
 The aim of the project is 
 1) To analyze users behavior: based on what criterias do they rate books? (Time of action / Place of action / Plot devices / etc.)
 2) Is there any correlation between users age, gender and rates?
-3) To analize common topics, semntiments of comments, annotation. Is there any correlation between it and users gender, age or books pecularities (plot devices, time of action, etc.).  
+3) To analize common topics, sentiments of comments, annotations. Is there any correlation between it and gender, age of users or books pecularities (plot devices, time of action, etc.).  
