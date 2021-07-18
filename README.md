@@ -8,4 +8,4 @@ The aim of the project is
 2) Is there any correlation between users age, gender and rates?
 3) To analize common topics, sentiments of comments, annotations. Is there any correlation between it and gender, age of users or books pecularities (plot devices, time of action, etc.).  
 
-The first part of the parcer is 'get_pages', the second - 'get_data_from_pages_json.py'. 
+The first part of the parcer is 'get_pages', the second - 'get_data_from_pages_json'. 
