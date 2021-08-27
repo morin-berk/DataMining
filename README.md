@@ -3,7 +3,7 @@ Files for a data mining project
 'How do people read science fiction and why it is popular: common tendencies and comparative analysis'.  
 The research is based on [Fantlab](https://fantlab.ru) data. The website has an [open API](https://github.com/FantLab/FantLab-API). 
 
-The aim of the project is 
+The aims of the project are:
 1) To analyze users behavior: based on what criterias do they rate books? (Time of action / Place of action / Plot devices / etc.)
 2) Is there any correlation between users age, gender and rates?
 3) To analize common topics, sentiments of comments, annotations. Is there any correlation between it and gender, age of users or books pecularities (plot devices, time of action, etc.).  
